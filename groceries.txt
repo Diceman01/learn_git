@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 apples
 3 pears
 oranges
-=======
->>>>>>> parent of fb6d35d... added apples and pears
