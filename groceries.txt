@@ -1,5 +1,5 @@
 apples
 3 pears
-oranges
+6 oranges
 bananas
 cereal
